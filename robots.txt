@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://dusizojucizu.netlify.app/sitemap.xml
